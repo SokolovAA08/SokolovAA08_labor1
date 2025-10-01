@@ -1,0 +1,12 @@
+Pipe:
+KilometerMark: truba 1
+Length: 1000.5
+Diameter: 200
+UnderRepair: 1
+
+CompressorStation:
+Name: cs
+TotalWorkshops: 10
+WorkingWorkshops: 9
+StationClass: 1
+

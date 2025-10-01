@@ -1,0 +1,11 @@
+Pipe:
+KilometerMark: m9
+Length: 10
+Diameter: 11
+UnderRepair: 0
+
+CompressorStation:
+Name: Station1
+TotalWorkshops: 5
+WorkingWorkshops: 3
+StationClass: 2
